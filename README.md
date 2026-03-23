@@ -90,6 +90,11 @@ To deploy your own instance:
 4. Add environment variables: `BOT_TOKEN` and `ALLOWED_USER_ID`
 5. Deploy!
 
+## Documentation
+
+- **[USAGE_GUIDE.md](USAGE_GUIDE.md)** - How to use the bot
+- **[DEVELOPER_GUIDE.md](DEVELOPER_GUIDE.md)** - Developer onboarding and code explanation
+
 ## Tech Stack
 
 - **Python 3.11+**
